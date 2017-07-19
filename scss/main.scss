@@ -1,10 +1,14 @@
 @import "./imports/_normalize.scss";
 
 *{ box-sizing: border-box }
-img {
-   width: 100%;
-   display: block;
-}
+// img {
+//    width: 100%;
+//    display: block;
+// }
 
 #app-container{
+}
+
+.cam {
+    font-family: 'Poiret One', cursive;
 }
