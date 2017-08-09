@@ -370,4 +370,19 @@ textarea {
 .cam {
   font-family: 'Poiret One', cursive; }
 
+.about-me .about {
+  font-family: 'Poiret One', cursive;
+  font-size: 4em; }
+.about-me .info {
+  font-size: 2em;
+  font-family: 'Raleway', sans-serif; }
+.about-me .selfie {
+  height: 75%;
+  padding: 5%;
+  border-radius: 18%; }
+
+.work {
+  font-family: 'Poiret One', cursive;
+  font-size: 2em; }
+
 /*# sourceMappingURL=styles.css.map */
